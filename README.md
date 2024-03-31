@@ -1,4 +1,7 @@
-# Build with AI 코드랩 자료 (240331)
+# Build with AI 코드랩
+
+일시 : 2024년 3월 31일 오후 1:00 ~ 오후 5:00
+장소 : 연세대학교 신촌캠퍼스 백양누리 국제회의실 
 
 ## 발표자료
 [Google Slides](https://docs.google.com/presentation/d/1oGUIVRYlrLJQcC6lnPxs_vx-DHNNZobraGBYJms-YIo/edit?usp=sharing)
